@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mi aplicación</string>
+    <string name="espere">Cargando la aplicación, por favor espere</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="opinion">Opinión sobre la fiesta de la Navidad</string>
+    <string name="pregunta">¿Te gusta la Navidad?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="ver">Ver</string>
+    <string name="titulo_opinion">Opinión</string>
+    <string name="actividad_pausada">Actividad principal en pausa</string>
+</resources>

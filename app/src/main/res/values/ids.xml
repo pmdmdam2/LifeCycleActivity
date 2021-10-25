@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btSi" type="id">btSi</item>
+    <item name="btNo" type="id">btNo</item>
+    <item name="textView" type="id">textView</item>
+</resources>

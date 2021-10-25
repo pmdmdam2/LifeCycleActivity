@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="espere">Loading, please wait</string>
+    <string name="si">Yes</string>
+    <string name="no">No</string>
+    <string name="opinion">opinion</string>
+    <string name="pregunta">Do you like Christmas?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="ver">View</string>
+    <string name="titulo_opinion">Opinion</string>
+    <string name="actividad_pausada">Main activity paused</string>
+</resources>
